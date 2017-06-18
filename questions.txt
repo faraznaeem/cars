@@ -1,0 +1,6 @@
+(Please use your text file to put your answers in)
+How do you initialize `rspec` in a folder? Do it in our cars folder.
+ == we change the directory and type rspec --init in the terminal.
+
+We would ordinarily have written our tests first, then written code to make them pass. Why?
+== it is the first step of TDD, write test, write implementation code, run test, fix errors, refactor.
